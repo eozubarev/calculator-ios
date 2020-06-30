@@ -10,11 +10,11 @@ It is a basic calculator app for iOS compatible to any layout and screen size.
 
 Portrait
 
-![Alt text](https://github.com/eozubarev/Calculator-iOS/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-03-04%20at%2012.51.51.png "portrait")
+![Alt text](https://radikal.ru/big/7swrxyc5ysea7][img]https://d.radikal.ru/d02/2006/68/d6a494a6959dt.jpg "portrait")
 
 Landscape
 
-![Alt text](https://github.com/eozubarev/Calculator-iOS/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-03-04%20at%2012.52.59.png "landscape")
+![Alt text](https://radikal.ru/big/r3zbv3faktxfj][img]https://b.radikal.ru/b11/2006/99/35360ea5fd33t.jpg "landscape")
 
 ### Todos
 
