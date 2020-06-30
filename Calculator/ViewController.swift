@@ -9,7 +9,7 @@
 import UIKit
 import AVFoundation
 
-class ViewController: UIViewController, AVAudioPlayerDelegate {
+class ViewController: ViewController, AVAudioPlayerDelegate {
     
     @IBOutlet weak var displayNum: UILabel!
 
