@@ -10,11 +10,11 @@ It is a basic calculator app for iOS compatible to any layout and screen size.
 
 Portrait
 
-![Alt text](https://radikal.ru/big/7swrxyc5ysea7][img]https://d.radikal.ru/d02/2006/68/d6a494a6959dt.jpg "portrait")
+![Image alt](https://d.radikal.ru/d02/2006/68/d6a494a6959dt.jpg)
 
 Landscape
 
-![Alt text](https://radikal.ru/big/r3zbv3faktxfj][img]https://b.radikal.ru/b11/2006/99/35360ea5fd33t.jpg "landscape")
+![Alt text](https://b.radikal.ru/b11/2006/99/35360ea5fd33t.jpg)
 
 ### Todos
 
