@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Deepesh on 04/03/19.
-//  Copyright © 2019 deepesh deshmukh. All rights reserved.
+//  Created by eozubarev on 06//19.
+//  Copyright © 2019 Evgeny Zubarev. All rights reserved.
 //
 
 import UIKit
